@@ -34,6 +34,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a52sxq/proprietary/vendor/firmware/nfc/sec_s3nrn4v_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/nfc/sec_s3nrn4v_firmware.bin \
     vendor/samsung/a52sxq/proprietary/vendor/firmware/ois_mcu_stm32g_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/ois_mcu_stm32g_fw.bin \
     vendor/samsung/a52sxq/proprietary/vendor/firmware/tsp_stm/fts5cu56a_a52sxq.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/tsp_stm/fts5cu56a_a52sxq.bin \
+    vendor/samsung/a52sxq/proprietary/recovery/root/vendor/firmware/tsp_stm/fts5cu56a_a52sxq.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/tsp_stm/fts5cu56a_a52sxq.bin \
     vendor/samsung/a52sxq/proprietary/vendor/firmware/wlan/a528b/rev10/wpss.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/a528b/rev10/wpss.b00 \
     vendor/samsung/a52sxq/proprietary/vendor/firmware/wlan/a528b/rev10/wpss.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/a528b/rev10/wpss.b01 \
     vendor/samsung/a52sxq/proprietary/vendor/firmware/wlan/a528b/rev10/wpss.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/a528b/rev10/wpss.b02 \
