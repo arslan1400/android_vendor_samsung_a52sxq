@@ -44,6 +44,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a52sxq/proprietary/vendor/firmware/wlan/a528b/rev10/wpss.b06:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/a528b/rev10/wpss.b06 \
     vendor/samsung/a52sxq/proprietary/vendor/firmware/wlan/a528b/rev10/wpss.b07:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/a528b/rev10/wpss.b07 \
     vendor/samsung/a52sxq/proprietary/vendor/firmware/wlan/a528b/rev10/wpss.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/a528b/rev10/wpss.mdt \
+    vendor/samsung/a52sxq/proprietary/vendor/firmware/wlan/a528b/rev11/wpss.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/a528b/rev11/wpss.b01 \
+    vendor/samsung/a52sxq/proprietary/vendor/firmware/wlan/a528b/rev11/wpss.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/a528b/rev11/wpss.mdt \
     vendor/samsung/a52sxq/proprietary/vendor/firmware/wlan/a528b/rev2/wpss.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/a528b/rev2/wpss.b00 \
     vendor/samsung/a52sxq/proprietary/vendor/firmware/wlan/a528b/rev2/wpss.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/a528b/rev2/wpss.b01 \
     vendor/samsung/a52sxq/proprietary/vendor/firmware/wlan/a528b/rev2/wpss.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/a528b/rev2/wpss.b02 \
